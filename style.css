@@ -1,0 +1,9 @@
+#content {
+    padding: 10px 10px 10px 10px;
+    font-size: 24px;
+    overflow: auto;
+    resize: none;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space:pre-wrap;
+}
